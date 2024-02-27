@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6446144944555685459
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6214069087650164243, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_Name
+      value: Peanuts_Product02 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734885053646501033, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identity
+      value: Packed in hollowed-out gourds, the dead of ancient Peru would be buried
+        with peanuts. I see the rotting visage in each salty crunch.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: The ancient Peruvians would pack these in hollowed-out gourds.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: The Peruvians buried their dead with them.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: It seems the priests of old knew what we know now.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: Peanuts are the perfect travel snack, for journeys both short and long.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[4]
+      value: I can feel their journey with every bite.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[5]
+      value: And see the rotting visage in each salty crunch.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7562107518708392235, guid: a700938ea3e6ef44e98c1bff6b8c7012,
+        type: 3}
+      propertyPath: _identities.Array.data[6]
+      value: Supay reigns over the inner world.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a700938ea3e6ef44e98c1bff6b8c7012, type: 3}

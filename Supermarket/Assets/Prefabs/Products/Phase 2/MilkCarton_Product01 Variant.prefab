@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &41498440530928781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identity
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: 'Local cow farms up North were just empty. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: 'One day to the next. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: Everything was boarded up, and the cows were gone.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: This new milk has a sinister aftertaste that I just can't place.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[4]
+      value: Where did those cows go?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[5]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6258656623959594578, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_Name
+      value: MilkCarton_Product01 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ff84d8b623955448a4fbcf4947fc7b0, type: 3}

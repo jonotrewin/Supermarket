@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3109626393583154257
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 940076448007206231, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: _identity
+      value: I often spread myself quite thin.
+      objectReference: {fileID: 0}
+    - target: {fileID: 940076448007206231, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 940076448007206231, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: I often spread myself quite thin.
+      objectReference: {fileID: 0}
+    - target: {fileID: 940076448007206231, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: 'Even the smallest amount of heat and butter melts away. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 940076448007206231, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: As a kid, I always thought that the butter was scared of me
+      objectReference: {fileID: 0}
+    - target: {fileID: 940076448007206231, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: Butter is always hiding, in every crumb and crevice of the toast just
+        to get away.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972479986123538731, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7748699583787195281, guid: 13edd52fa7add0c409b8c68f45b92ce1,
+        type: 3}
+      propertyPath: m_Name
+      value: Butter_Product09 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13edd52fa7add0c409b8c68f45b92ce1, type: 3}

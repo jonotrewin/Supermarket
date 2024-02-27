@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3091584210817811210
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6910819438298440652, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: _identity
+      value: Someone asked for my cereal number the other day... Important for breakfast
+        data registry, I imagine.
+      objectReference: {fileID: 0}
+    - target: {fileID: -6910819438298440652, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -6910819438298440652, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: Someone asked for my cereal number the other day... Important for breakfast
+        data registry, I imagine.
+      objectReference: {fileID: 0}
+    - target: {fileID: -6910819438298440652, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: Imagine if our breakfast choices really defined who we are.
+      objectReference: {fileID: 0}
+    - target: {fileID: -6910819438298440652, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: I've always seen myself as an eggs-and-bacon kind of person. But sometimes,
+        I worry I'm just plain cereal...
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1990597015907997258, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608563680429086105, guid: 3a76d5e74d9a696499f01b43b81b76ac,
+        type: 3}
+      propertyPath: m_Name
+      value: CerealBox_Product10 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3a76d5e74d9a696499f01b43b81b76ac, type: 3}

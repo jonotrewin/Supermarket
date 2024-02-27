@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6962362524671536622
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3724794927015048533, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_Name
+      value: Coffee_Product07 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identity
+      value: In a daze, I snuck into a coffee brewery to investigate unsettling grinding
+        noises. A noseful of coffee grounds snapped me out of it.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: A month ago, I snuck into a coffee brewery to investigate the noise.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: A noseful of coffee grounds shocked me startled.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: What did they put into those machines?
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: Grinding, grinding, grinding away.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[4]
+      value: Until all that remained was this sharp, acidic dust.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[5]
+      value: Ground for consumption.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6f00b2a4843883b4d91a3e19fe5cddf5, type: 3}

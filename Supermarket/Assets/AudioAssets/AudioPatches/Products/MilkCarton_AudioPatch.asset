@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6ca7483b58745429a20758e2924ce2, type: 3}
+  m_Name: MilkCarton_AudioPatch
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: c3582d56dc1e0bb40adff251f61800e1, type: 3}
+  - {fileID: 8300000, guid: cbbe9da4a71a5fb44a8b85f51374f0c3, type: 3}
+  - {fileID: 8300000, guid: 220c86ad19d93d74a8fc3c5b43c1a9b4, type: 3}
+  maxVolume: 1
+  minVolume: 1
+  minPitch: 0.83
+  maxPitch: 1.25

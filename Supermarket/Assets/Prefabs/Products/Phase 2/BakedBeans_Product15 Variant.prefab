@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7667587640494051200
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2795500440055063494, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: _identity
+      value: Will my beans ever escape this flesh-can? Are they worthy of being kept
+        safe?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2795500440055063494, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2795500440055063494, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: Will my beans ever escape this flesh-can? Are they worthy of being kept
+        safe?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2795500440055063494, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: Indigienous beans, drowned in colonial sauce.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2795500440055063494, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: How many miles have these beans travelled, to be trapped in a can.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2795500440055063494, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: The edges are sharp.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7225898622847735066, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_Name
+      value: BakedBeans_Product15 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6355043
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7720974
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -101.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001871998343090080, guid: 396dd94e373f062419f502551cbe5770,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 396dd94e373f062419f502551cbe5770, type: 3}

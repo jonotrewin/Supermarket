@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &41498440530928781
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2519502433751123990, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identity
+      value: missing
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: My parents said that drinking milk would make me grow. Trying to touch
+        the ceiling had me throwing up for days.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: Whose milk is this anyway?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: 'It''s weird to think that something living can make something so delcious. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: Seriously, whose milk is this?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[4]
+      value: I wonder if drinking the milk connects you to the place it came from.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3987162158234223363, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: _identities.Array.data[5]
+      value: Maybe that's why milk always gives me nightmares.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6258656623959594578, guid: 9ff84d8b623955448a4fbcf4947fc7b0,
+        type: 3}
+      propertyPath: m_Name
+      value: MilkCarton_Product01 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ff84d8b623955448a4fbcf4947fc7b0, type: 3}

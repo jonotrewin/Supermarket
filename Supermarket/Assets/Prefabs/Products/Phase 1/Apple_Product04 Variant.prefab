@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2094062539386300018
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097201778609308635, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7581110437865265505, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: m_Name
+      value: Apple_Product04 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identity
+      value: I feel like a little worm in the darkness, trying to eat its way out
+        of an apple.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: Sometimes, I feel like a little worm.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: Inside an apple, squirming around in the darkness.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: I'm starving, but I'm scared. I try to eat my way out.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: But with each bite, I grow more tired.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.data[4]
+      value: I bloat and bloat, and before I know it, I can barely move.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8613922821399322103, guid: 2bfe13f63e3175641b64e613ffd05c7a,
+        type: 3}
+      propertyPath: _identities.Array.data[5]
+      value: I wonder what it means.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2bfe13f63e3175641b64e613ffd05c7a, type: 3}

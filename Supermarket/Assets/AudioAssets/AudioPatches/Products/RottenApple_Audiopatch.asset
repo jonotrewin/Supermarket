@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6ca7483b58745429a20758e2924ce2, type: 3}
+  m_Name: RottenApple_Audiopatch
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 639896049dc903e40a74b7180b3c7790, type: 3}
+  - {fileID: 8300000, guid: 73444c076f432594597120fcbc55a839, type: 3}
+  - {fileID: 8300000, guid: 17c9317213559be458de7f2a6eca5995, type: 3}
+  maxVolume: 1
+  minVolume: 1
+  minPitch: 0.83
+  maxPitch: 1.25

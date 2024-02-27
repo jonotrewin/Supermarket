@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2022342694652949704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4682050161155822000, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: _identity
+      value: Kids in high school were so bland. I can't stand blandness.
+      objectReference: {fileID: 0}
+    - target: {fileID: -4682050161155822000, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -4682050161155822000, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: Kids in high school were so bland. I can't stand blandness.
+      objectReference: {fileID: 0}
+    - target: {fileID: -4682050161155822000, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: I was voted 'most spicy' in the yearbook. Strange thing to call a kid.
+      objectReference: {fileID: 0}
+    - target: {fileID: -4682050161155822000, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: I used to think that my life would be 'spicy'; slightly uncomfortable,
+        but exciting.
+      objectReference: {fileID: 0}
+    - target: {fileID: -4682050161155822000, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: Would taking a bath in this make me spicy too?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2592924566961791506, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_Name
+      value: Mustard_Product05 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8526875636125093664, guid: 20fb1e5d48597d24a9f7439348c023cc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 20fb1e5d48597d24a9f7439348c023cc, type: 3}

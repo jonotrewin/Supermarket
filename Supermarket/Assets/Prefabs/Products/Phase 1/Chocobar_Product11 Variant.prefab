@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3949925374702387819
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2920481820033698694, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3727194139576671157, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: _identity
+      value: Why do people think choclate is a good way to say sorry?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3727194139576671157, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3727194139576671157, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: Why do people think choclate is a good way to say sorry?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3727194139576671157, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: If only feelings melted away as easily as chocolate.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3727194139576671157, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: I can't stomach the taste of this stuff, it just reminds me of them.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3727194139576671157, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: Ugh.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3747116377251870630, guid: 08b768538d471104e8b6c6881833266e,
+        type: 3}
+      propertyPath: m_Name
+      value: Chocobar_Product11 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 08b768538d471104e8b6c6881833266e, type: 3}

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3032801264526716143
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identity
+      value: I dreamt that I spilt oil all across my house and couldn't walk anymore.
+        Some say its anxiety, but I think I just miss going to water parks.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: I dreamt that I spilt oil all over my house.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: I could barely move, save for slipping around slowly.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: I couldn't run. I couldn't walk. Every step led back to the same place.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: My therapist thinks I have anxiety...
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[4]
+      value: 'That trip to Greece won''t leave my head. One drop of this stuff on
+        some toast, and I''m back in that clear-blue sea. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[5]
+      value: I'm not anxious. I probably just miss slipping around on water slides.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946841664461763628, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: _identities.Array.data[6]
+      value: 'Grotesque gnarled the bark that twix and twain doth run. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6047921282331057564, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6387609436263696166, guid: eb7925bd2bd323a4dbcf16a49a0904f2,
+        type: 3}
+      propertyPath: m_Name
+      value: OliveOil_Product18 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb7925bd2bd323a4dbcf16a49a0904f2, type: 3}

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6962362524671536622
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3724794927015048533, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_Name
+      value: Coffee_Product07 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4105860009694916591, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identity
+      value: Coffee mugs have been piling up in my living room.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[0]
+      value: Coffee mugs have been piling up in my living room.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[1]
+      value: My need for sleep is nothing in the face of these magic beans.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[2]
+      value: Still, waking up has been getting harder and harder.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981293060259394261, guid: 6f00b2a4843883b4d91a3e19fe5cddf5,
+        type: 3}
+      propertyPath: _identities.Array.data[3]
+      value: I still dream about that brewery...that bitter-sweet smell.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6f00b2a4843883b4d91a3e19fe5cddf5, type: 3}

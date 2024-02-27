@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &530793524529564745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 530793524529564750}
+  - component: {fileID: 530793524529564751}
+  m_Layer: 0
+  m_Name: FinalMilkDialogue
+  m_TagString: FinalDialogue
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &530793524529564750
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 530793524529564745}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &530793524529564751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 530793524529564745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c07add1d00022304fb2c1c42ea3ac622, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _isComingFromSpeaker: 0
+  _dialogueCollection:
+  - "Ever heard of a Khalbaccha? \n"
+  - "It\u2019s an Indian tradition in farming."
+  - They take a dead calf, and put him up on a pole.
+  - "Do you think the mother\u2019s know? "
+  - When the farmer puts a dead kid right up next to them and they...
+  - "...stare that stare at its emaciated body.\r"
+  - ...
+  - "Whether the cow is aware of the horror or not doesn\u2019t matter.\n"
+  - Y'see, these farmers...
+  - " they\u2019re not talking to the cows. "
+  - "They\u2019re talking to the cow\u2019s body. "
+  - "You see, some force in the cow recognises there\u2019s a kid nearby..."
+  - " Living or dead, don\u2019t matter."
+  - "The udders swell all the same, and the cow produces milk.\r"
+  - ...
+  - 'This liquid-lifeforce was made to nurture the Khalbaccha back to life. Mind
+    you, this is intense for the cow.
+
+'
+  - " It drains the hepher\u2019s energy for a hopeless task."
+  - ' And maybe the cow thinks that it was all worth it...'
+  - ' ...''cause the milk gets drained from their udders.
+
+'
+  - "and they\u2019re unable to comprehend beyond the scope of that, so long as their
+    calf is fed."
+  - "But that\u2019s not what happens, is it?"
+  - ...
+  - Burned.
+  - Frozen.
+  - 'Force-fed so many artificial concepts that that original natural wish perishes. '
+  - "And then it all gets poured down some undeserving ape\u2019s gullet."
+  - "What it could\u2019ve been..."
+  - Heck, what it was meant to be!...
+  - "...is nothing more than a waning shadow. \n"
+  - Small text on the bottom of a carton.
+  - ...
+  - How was I ever meant to stand a chance?
+  - ...
+  - Oh well...
+  - "No point crying over spilled milk\r!"
+  _name: Damaged Milk Carton
+  _isSkippable: 0
+  _dialogueAudioClips:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
