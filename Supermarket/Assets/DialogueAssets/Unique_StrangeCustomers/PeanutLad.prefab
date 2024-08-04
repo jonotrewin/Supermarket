@@ -52,6 +52,6 @@ MonoBehaviour:
   _name: Swollen-faced Man
   _isSkippable: 1
   _dialogueAudioClips:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: 2aa3a21f8ae431c4a871a369947cbb65, type: 3}
+  - {fileID: 8300000, guid: 2aa3a21f8ae431c4a871a369947cbb65, type: 3}
+  - {fileID: 8300000, guid: 2aa3a21f8ae431c4a871a369947cbb65, type: 3}

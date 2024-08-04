@@ -50,4 +50,4 @@ MonoBehaviour:
   _name: Average Housewife
   _isSkippable: 1
   _dialogueAudioClips:
-  - {fileID: 0}
+  - {fileID: 8300000, guid: cbb3298925235124bbba51f45788d8c9, type: 3}

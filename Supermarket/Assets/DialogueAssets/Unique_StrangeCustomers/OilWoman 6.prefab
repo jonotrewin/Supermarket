@@ -50,4 +50,4 @@ MonoBehaviour:
   _name: Oily Woman
   _isSkippable: 1
   _dialogueAudioClips:
-  - {fileID: 0}
+  - {fileID: 8300000, guid: af0eb00a528dda04ba6e7043087f0b09, type: 3}

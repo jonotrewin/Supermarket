@@ -90,38 +90,38 @@ MonoBehaviour:
   _name: Damaged Milk Carton
   _isSkippable: 0
   _dialogueAudioClips:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: 3e3950a10e30c7e4b9289a0ca15e1863, type: 3}
+  - {fileID: 8300000, guid: e13fdf74d637b62429f2a9f66a0314ef, type: 3}
+  - {fileID: 8300000, guid: 6a89d4dd27a3aad49a6d02e0c5a84c31, type: 3}
+  - {fileID: 8300000, guid: 2679e131ef9347d478f445b438c92855, type: 3}
+  - {fileID: 8300000, guid: eed51c87c8fafc547a338393543a21b4, type: 3}
+  - {fileID: 8300000, guid: b0002d102ac34fd4c925cae9d8bf0234, type: 3}
+  - {fileID: 8300000, guid: ff2a0aabe9b2e4c4390b210882dbdd6e, type: 3}
+  - {fileID: 8300000, guid: 65ee36be7f7f4d6408613873a616b54c, type: 3}
+  - {fileID: 8300000, guid: b25166943aa6de0469ad650dfe8a1b1c, type: 3}
+  - {fileID: 8300000, guid: 7d8fcce8215e3254b9ceb7832736d9d6, type: 3}
+  - {fileID: 8300000, guid: 6e0ab285bcb6d1c46b681d07fae7fa5e, type: 3}
+  - {fileID: 8300000, guid: 8954f6e6dff04384c85fae7ee5df1eda, type: 3}
+  - {fileID: 8300000, guid: af96e802501829542ac1298a6cef0338, type: 3}
+  - {fileID: 8300000, guid: 0426af3e0b00d8048a1aebb92d48df43, type: 3}
+  - {fileID: 8300000, guid: abf28ed25bff49344bbbdb7726dd0bd4, type: 3}
+  - {fileID: 8300000, guid: e195d4e4f31b40b4c87cf2808e37b581, type: 3}
+  - {fileID: 8300000, guid: c52c49c6f77c89946b14c97b47890b2f, type: 3}
+  - {fileID: 8300000, guid: b8b4e7362550f6b42b1ca5b94516f4ae, type: 3}
+  - {fileID: 8300000, guid: 22d9271846e2b564da2be2bb044798ec, type: 3}
+  - {fileID: 8300000, guid: f3d274a1534cd014a9efa6bf2c81d675, type: 3}
+  - {fileID: 8300000, guid: a75cf09441a6def429f8bc6fbffd04ea, type: 3}
+  - {fileID: 8300000, guid: 318a4772205340341a52ed9bec5e42ab, type: 3}
+  - {fileID: 8300000, guid: f7219b4ccf2a6794a8867ad22f8857fd, type: 3}
+  - {fileID: 8300000, guid: c941d1a41593f214685c9bb67338cd77, type: 3}
+  - {fileID: 8300000, guid: 4c8740d4e6f869543b126216958ce3b3, type: 3}
+  - {fileID: 8300000, guid: 03fe4b849a909b64fa23bc518bb08283, type: 3}
+  - {fileID: 8300000, guid: 74fbff3cd5e5a3f4db0e7a65983a8e45, type: 3}
+  - {fileID: 8300000, guid: 8db3aa4c178d3214ca65ab92eb92042c, type: 3}
+  - {fileID: 8300000, guid: 6242d0569d6c01d4b93469ced06a76bc, type: 3}
+  - {fileID: 8300000, guid: 5e2eda229c650234b98a312eb9dbb1a6, type: 3}
+  - {fileID: 8300000, guid: bbaf9d0b00e9fd144b6f666e762c40f1, type: 3}
+  - {fileID: 8300000, guid: eb8f79279b44d354a8fc2961be7c85bc, type: 3}
+  - {fileID: 8300000, guid: 1b6266e2e90090c4f972d14c080db33a, type: 3}
+  - {fileID: 8300000, guid: 335590d4a22b6684fa48bcb9ba15fafc, type: 3}
+  - {fileID: 8300000, guid: 3c7848d8bedf50a4ca89023970f111bb, type: 3}

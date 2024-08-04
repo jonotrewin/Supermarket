@@ -59,12 +59,12 @@ MonoBehaviour:
   _name: Announcement
   _isSkippable: 0
   _dialogueAudioClips:
+  - {fileID: 8300000, guid: 4ca1b85968bd0124cadc3baf4d1d899e, type: 3}
+  - {fileID: 8300000, guid: ea8f6501ed31ffb4a8183133b49d3e91, type: 3}
+  - {fileID: 8300000, guid: f97e462bc527b644a9e5ab1310882404, type: 3}
   - {fileID: 0}
+  - {fileID: 8300000, guid: e96272eb00bdc924e85f22ee12683480, type: 3}
+  - {fileID: 8300000, guid: 4ed366235eb44d54cbed140e2638607c, type: 3}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: 48e813bd0f820f747915224ca8b6f795, type: 3}
+  - {fileID: 8300000, guid: 27bd574f1ee06b6448b0dd6daa5e569a, type: 3}
