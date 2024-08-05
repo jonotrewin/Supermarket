@@ -51,3 +51,5 @@ MonoBehaviour:
   _isSkippable: 1
   _dialogueAudioClips:
   - {fileID: 8300000, guid: 0c8bdb2c911972349a1627873f875697, type: 3}
+  _dialogueAudioPatches:
+  - {fileID: 11400000, guid: 7b73bb703502cc947a2760b146e624e0, type: 2}

@@ -115,4 +115,9 @@ public class SpeakerAudioScript : MonoBehaviour
     {
         _isPlaybackStopped= playback;
     }
+
+    public void SetSpeakerEndMode()
+    {
+        _audioSource.pitch = 0.6f;
+    }
 }

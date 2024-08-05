@@ -57,3 +57,8 @@ MonoBehaviour:
   - {fileID: 8300000, guid: cbb3298925235124bbba51f45788d8c9, type: 3}
   - {fileID: 0}
   - {fileID: 8300000, guid: cbb3298925235124bbba51f45788d8c9, type: 3}
+  _dialogueAudioPatches:
+  - {fileID: 11400000, guid: c83d8c9526cdd2045845da1c6100f4d1, type: 2}
+  - {fileID: 11400000, guid: c83d8c9526cdd2045845da1c6100f4d1, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: c83d8c9526cdd2045845da1c6100f4d1, type: 2}

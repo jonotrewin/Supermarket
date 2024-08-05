@@ -53,3 +53,6 @@ MonoBehaviour:
   _dialogueAudioClips:
   - {fileID: 0}
   - {fileID: 0}
+  _dialogueAudioPatches:
+  - {fileID: 0}
+  - {fileID: 0}

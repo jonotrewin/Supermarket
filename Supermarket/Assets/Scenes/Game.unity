@@ -9631,6 +9631,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4953520117852060539, guid: 3d17b39d1f668ef4d8ef20545db0eac8,
         type: 3}
+      propertyPath: _audioMixer
+      value: 
+      objectReference: {fileID: 24100000, guid: 3da5fc51ea306294ca71aed6bfa044e3,
+        type: 2}
+    - target: {fileID: 4953520117852060539, guid: 3d17b39d1f668ef4d8ef20545db0eac8,
+        type: 3}
+      propertyPath: _endSnapShot
+      value: 
+      objectReference: {fileID: -5480990511086365972, guid: 3da5fc51ea306294ca71aed6bfa044e3,
+        type: 2}
+    - target: {fileID: 4953520117852060539, guid: 3d17b39d1f668ef4d8ef20545db0eac8,
+        type: 3}
       propertyPath: _speakerAudioScript
       value: 
       objectReference: {fileID: 662503517}
@@ -11538,6 +11550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _clipToPlay: {fileID: 0}
+  _patchToPlay: {fileID: 0}
 --- !u!82 &1225245570
 AudioSource:
   m_ObjectHideFlags: 0
@@ -11553,7 +11566,7 @@ AudioSource:
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0

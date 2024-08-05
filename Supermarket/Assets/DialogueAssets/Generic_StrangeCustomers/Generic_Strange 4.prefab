@@ -53,3 +53,6 @@ MonoBehaviour:
   _dialogueAudioClips:
   - {fileID: 8300000, guid: 2aa3a21f8ae431c4a871a369947cbb65, type: 3}
   - {fileID: 8300000, guid: 2aa3a21f8ae431c4a871a369947cbb65, type: 3}
+  _dialogueAudioPatches:
+  - {fileID: 11400000, guid: 6ac1f3b8d7d1a5743869a7c87385fd26, type: 2}
+  - {fileID: 11400000, guid: 6ac1f3b8d7d1a5743869a7c87385fd26, type: 2}

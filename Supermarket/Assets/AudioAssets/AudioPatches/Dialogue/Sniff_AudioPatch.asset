@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6ca7483b58745429a20758e2924ce2, type: 3}
+  m_Name: Sniff_AudioPatch
+  m_EditorClassIdentifier: 
+  _audioClips:
+  - {fileID: 8300000, guid: 05dc76669e3ce8746a3fccc7b1a79c16, type: 3}
+  maxVolume: 1
+  minVolume: 0.965
+  minPitch: 0.9
+  maxPitch: 1.21

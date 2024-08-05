@@ -18,5 +18,7 @@ public class DialogueGroup : MonoBehaviour
 
     public AudioClip[] _dialogueAudioClips;
 
+    public AudioPatch[] _dialogueAudioPatches;
+
 
 }

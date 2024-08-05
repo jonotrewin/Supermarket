@@ -8,6 +8,7 @@ public class DialogueAudioScript : MonoBehaviour
 {
     private AudioSource _audioSource;
     public AudioClip _clipToPlay;
+    public AudioPatch _patchToPlay;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +22,17 @@ public class DialogueAudioScript : MonoBehaviour
     }
 
     public void PlayDialogue()
+    {
+        //_audioSource.clip = _clipToPlay;
+        //_audioSource.Play();
+        if(_patchToPlay != null)
+        {
+            _patchToPlay.Play(_audioSource);
+        }
+        
+    }
+
+    public void PlayDialogueClip()
     {
         _audioSource.clip = _clipToPlay;
         _audioSource.Play();

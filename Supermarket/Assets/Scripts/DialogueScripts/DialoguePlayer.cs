@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using Unity.VisualScripting;
+using UnityEngine.Audio;
 
 public class DialoguePlayer : MonoBehaviour
 {
@@ -32,6 +33,9 @@ public class DialoguePlayer : MonoBehaviour
     DialogueManager _dialogueManager;
     [SerializeField] private SpeakerAudioScript _speakerAudioScript;
     [SerializeField] private DialogueAudioScript _dialogueAudioScript;
+
+    [SerializeField] private AudioMixer _audioMixer;
+    [SerializeField] private AudioMixerSnapshot _endSnapShot;
     // Start is called before the first frame update
     void Start()
     {
@@ -103,6 +107,10 @@ public class DialoguePlayer : MonoBehaviour
         else if(_currentDialogueCollection.gameObject.tag == "FinalDialogue" && _dialogueManager._isDialoguePlaying)
         {
             _lightMngr._isSwitchingLighting= true;
+            _endSnapShot.TransitionTo(1.0f);
+            _speakerAudioScript.SetSpeakerEndMode();
+
+
         }
     }
 
@@ -125,8 +133,18 @@ public class DialoguePlayer : MonoBehaviour
         }
         else
         {
-            _dialogueAudioScript._clipToPlay = _currentDialogueCollection._dialogueAudioClips[currentIndex];
-            _dialogueAudioScript.PlayDialogue();
+            if(_currentDialogueCollection.gameObject.tag == "FinalDialogue")
+            {
+                _dialogueAudioScript._clipToPlay = _currentDialogueCollection._dialogueAudioClips[currentIndex];
+                _dialogueAudioScript.PlayDialogueClip();
+            }
+            else
+            {
+                _dialogueAudioScript._patchToPlay = _currentDialogueCollection._dialogueAudioPatches[currentIndex];
+                _dialogueAudioScript.PlayDialogue();
+            }
+            
+            
         }
         
         
@@ -153,8 +171,16 @@ public class DialoguePlayer : MonoBehaviour
             }
             else
             {
-                _dialogueAudioScript._clipToPlay = _currentDialogueCollection._dialogueAudioClips[currentIndex];
-                _dialogueAudioScript.PlayDialogue();
+                if (_currentDialogueCollection.gameObject.tag == "FinalDialogue")
+                {
+                    _dialogueAudioScript._clipToPlay = _currentDialogueCollection._dialogueAudioClips[currentIndex];
+                    _dialogueAudioScript.PlayDialogueClip();
+                }
+                else
+                {
+                    _dialogueAudioScript._patchToPlay = _currentDialogueCollection._dialogueAudioPatches[currentIndex];
+                    _dialogueAudioScript.PlayDialogue();
+                }
             }
             _currentCompiledDialogueLine = new string(_characterName + ": " + _currentDialogueCollection._dialogueCollection[currentIndex]);
             if (_currentCompiledDialogueLine == ": " + _currentDialogueCollection._dialogueCollection[currentIndex])
